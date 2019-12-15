@@ -1,0 +1,85 @@
+.nav-wrapper{
+    background-color: white;
+    width: 100%;
+    
+}
+li a{
+    color: black;
+    padding-left: 2rem;
+    
+}
+
+
+.brand-logo{
+    margin-left: -3.3rem;
+    padding-top: 0.5%;
+    padding-left: 2rem;
+}
+
+.btn{
+    width: 100%;
+    background-color: red !important;
+
+}
+
+.teal{
+    background-color: #ffffff !important;
+    color: black;
+    
+
+}
+.form-box-title{
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin-top: -1rem;
+}    
+.main-form{
+    margin-top: -0.6rem;
+    margin-bottom: -1rem;
+}
+
+.container{
+    margin-top: 4rem;
+    margin-left: -0.1rem;
+    padding-left: 2.2rem;
+}
+
+.jumbo-title-1{
+    font-size: 2.1rem;
+    font-weight: bold;
+}
+.jumbo-title-2{
+    font-size: 2.1rem;
+    font-weight: bold;
+}
+
+#jumbo{
+    margin-top: 3rem;
+    
+}
+
+.jumbo-sub-title{
+    margin-top: 2rem;
+    font-size: 1.4rem;
+    color: #757575;
+}
+
+.sub-container{
+    margin-top: 4rem;
+}
+
+.sub-container-bold{
+    font-weight: bolder;
+    font-size: 1.2rem;
+}
+
+.sub-container-pad{
+    margin-top: -1%;
+}
+
+.col .s8{
+    margin-left: 4.5%;
+}
+ .btn-small{
+    color: white;
+}
