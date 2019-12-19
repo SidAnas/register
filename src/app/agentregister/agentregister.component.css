@@ -83,3 +83,39 @@ li a{
  .btn-small{
     color: white;
 }
+
+.box-title{
+    text-align: center;
+}
+
+/* .box-row-1{
+    margin-left: 12rem;
+} */
+
+.bolder-started{
+    font-weight: bolder;
+    text-align: center;
+    margin-top:  -0.70%;
+
+}
+
+.footer-privacy-policy{
+    text-align: center;
+}
+
+.first-col{
+    text-align: left;
+    padding-left: 30%;
+    padding-top: 15%;
+}
+
+.big-heading{
+    font-size: 160%;
+    font-weight: bold;
+    padding-bottom: -2%;
+}
+
+
+.boxes-title{
+    text-align: center;
+}
